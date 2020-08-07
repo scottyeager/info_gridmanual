@@ -1,4 +1,4 @@
-# This document shows how to setup/migrate your ThreeFold Farm and 3Nodes to TF Grid 2.0 (JSX Version)
+# This document shows how to setup/migrate your ThreeFold Farm and 3Nodes to TF Grid 2.1 (JSX Version)
 
 **Summary**
 
@@ -52,7 +52,9 @@ Fill the form with your values.
 
 **Make sure you add a valid TFT stellar address. This is required in order for user to be able to reserve capacity from your farm.**
 
-If you do not have a wallet yet. You can use the `Wallet Manger` from the 3SDK. You can find it in the left menu.
+Copy the address of the Stellar account from your 3Bot Connect app, where you can copy it from the wallet in the info tab on the detail screen of your farmer wallet.
+
+![detail_3bot](./img/detail_3bot_connect.png)
 
 Once the farm is created you should see a new entry in the top table.
 
